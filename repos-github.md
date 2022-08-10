@@ -802,6 +802,7 @@
 - niqdev/kafka-scala-examples
 - niqdev/scala-fp
 - nivanov/cosplay
+- NakajoLab/B4-Processor
 - NomadBlacky/digdag-plugin-datadog
 - NomadBlacky/scaladog
 - NomadBlacky/scala_examples
